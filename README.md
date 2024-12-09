@@ -1,4 +1,4 @@
 # mydemo
 My first repository
-<br>
+\n
 Aditya is best
